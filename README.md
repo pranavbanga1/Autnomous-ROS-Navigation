@@ -1,4 +1,4 @@
-# 🐢 TurtleBot3 – Vision-Based Obstacle Avoidance with ROS
+# 🐢 TurtleBot3 – Vision-Based Navigation with ROS
 
 This project implements a **monocular vision-based obstacle avoidance system** on the TurtleBot3 Burger using **ROS Noetic**. In this milestone, the robot autonomously detects orange traffic cones simulating road construction and maneuvers around them in real time.
 
